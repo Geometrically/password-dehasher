@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\juser\Desktop\Coding\Science_Fair\src\com\geometr
+ ically\Main.java
+Main-Class: com.geometrically.Main
+
